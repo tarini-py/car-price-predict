@@ -150,10 +150,6 @@ This project is open source and available under the MIT License.
 
 [tarini-py](https://github.com/tarini-py)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ---
 
 **Note**: This is a machine learning application. For production use, ensure:
