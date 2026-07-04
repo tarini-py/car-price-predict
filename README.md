@@ -140,7 +140,7 @@ The Dockerfile uses:
 - Production server: Gunicorn with configurable workers
 - Exposed port: 80
 
-Default configuration runs with 1 worker but can be scaled horizontally using the `WORKERS` environment variable.
+Default configuration runs with 1 worker but can be scaled vertically using the `WORKERS` environment variable.
 
 ## 📄 License
 
