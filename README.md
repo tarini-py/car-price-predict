@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction — MLOps Pipeline on AWS ECS
+# MLOps Pipeline on AWS ECS
 
 An XGBoost inference service that's containerized and continuously deployed to **AWS ECS Fargate** through a two-stage **GitHub Actions** pipeline: lint → test → build → ship.
 
